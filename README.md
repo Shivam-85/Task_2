@@ -7,7 +7,7 @@ A Banking Management System
 A Bank Management System which helps you to Create,Delete and Update a bank Account.
 
 ### Prerequisite:
-1. Python 3.6 or higher versions.
+1. Python 3.8 .
 2. Flask framework
 3. MongoDB database
 
