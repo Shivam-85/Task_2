@@ -15,7 +15,7 @@ A Bank Management System which helps you to Create,Delete and Update a bank Acco
 1. Install the requirements present in the requirements.txt by typing the command `pip3 install requirement.txt`                                                      
 2. Create a connection in mongodb, with a new database.
 3. Create a collection called users.
-4. Setup your mail configurations with the help of [flask_mail](https://pythonhosted.org/Flask-Mail/) and mention JWT_SECRETE_KEY in app.py
+4. Setup your mail configurations with the help of [flask_mail](https://pythonhosted.org/Flask-Mail/) in app.py
 5. To run the application type `flask run` in terminal.
 
 ## Tech Stack
